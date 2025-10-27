@@ -27,6 +27,7 @@
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
+      "@stripe/stripe-terminal-react-native",
       "expo-router",
       [
         "expo-splash-screen",
